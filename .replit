@@ -1,2 +1,2 @@
 language = "python3"
-run = "python lab4/example4.py"
+run = "python lab4/example5.py"
