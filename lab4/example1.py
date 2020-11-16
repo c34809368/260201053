@@ -1,5 +1,7 @@
 number=int(input("please enter a number:"))
-nums=list(number)
+num=str(number)
+num_1=map(int,num)
+nums=list(num_1)
 if number<10:
   digits=number
 else:
