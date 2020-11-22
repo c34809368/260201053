@@ -1,14 +1,14 @@
 password="abc123"
-user=input("please enter the password:")
 while True:
+  user=input("please enter the password:")
   if user == password:
     print("Welcome!")
     break
   elif user=="help":
     print("a")
-    break
+    continue
   else:
     print("Wrong!")
-    break
+    continue
 
 
