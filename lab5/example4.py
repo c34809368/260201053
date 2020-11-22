@@ -6,7 +6,9 @@ while True:
     break
   elif user=="help":
     print("a")
+    break
   else:
     print("Wrong!")
+    break
 
 
