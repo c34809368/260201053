@@ -8,6 +8,7 @@ else:
   digits=nums[-1] + nums[-2]
 print("sum of the last two digits is:",digits)
 
+# loop ile yapmayı denemeliyim #
 
 
 
