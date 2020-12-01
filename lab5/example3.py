@@ -1,8 +1,20 @@
-num_1=str(input("please enter the first number:"))
-num_2=str(input("please enter the second number:"))
+num_1=input("please enter the first number:")
+num_2=input("please enter the second number:")
+first=list(num_1)
+second=list(num_2)
 count=0
-for i in num_1:
-  for x in num_2:
-    if i==x:
-      count+=1
+while len(first)!=len(second):
+  if len(first)>len(second):
+    second.insert(0,0)
+  else:
+    first.insert(0,0)
+
+
+for i in range(0,len(first)):
+  if first[i]==second[i]:
+    count+=1
+  else:
+    continue
 print(count)
+
+#çok redundant bir daha bak
