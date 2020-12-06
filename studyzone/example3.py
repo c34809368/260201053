@@ -14,3 +14,4 @@ if sumnum==num:
   print("it is a perfect number.")
 else:
   print("it is not a perfect number.")
+  
