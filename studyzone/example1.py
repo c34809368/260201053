@@ -6,7 +6,7 @@ while i<=num:
     factors.append(i)
   i+=1
 print("factors are:",factors)
-if len(factors)==2:
+if len(factors)==2:#also can say if factors==[1,num]:
   print("It is prime.")
 else:
   print("It is not prime.")
