@@ -1,0 +1,85 @@
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+You need to log in first
+
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+You need to log in first
+
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+Please enter username:
+Please enter password:
+Wrong password or username
+
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+Please enter username:
+Please enter password:
+Logged in
+
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+ali,ahmet
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+Please enter the name of your new friend:
+Friend not found
+
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+Please enter username:
+Please enter password:
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+Please enter the name of your new friend:
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+ali,ahmet,deniz
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+Please enter username:
+Please enter password:
+Logged in
+
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit
+
+1. Log in / change user
+2. Create new user
+3. Add friend
+4. Show my friends
+5. Exit

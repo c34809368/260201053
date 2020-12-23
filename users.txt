@@ -1,0 +1,4 @@
+ahmet;4567;ayse
+ovgu;6789;
+ayse;5678;ali,ahmet
+ali;1234;ahmet,ovgu,ayse
