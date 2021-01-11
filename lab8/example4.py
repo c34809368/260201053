@@ -7,3 +7,6 @@ def binary_to_dec(binary_num):
 binary_num=int(input("please enter a binary number:"))
 decimal=binary_to_dec(binary_num)
 print(decimal)
+
+def dec_to_binary(number):
+  ?
