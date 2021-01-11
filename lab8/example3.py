@@ -7,8 +7,9 @@ def get_rand_list(b,e,N):
 def get_overlap(list1,list2):
   list3=list()
   for i in list1:
-    if i in list2:
-      list3.append[i]
+    for j in list2:
+      if i==j:
+        list3.append(i)
   return(list3)
 
 def main():
@@ -21,4 +22,3 @@ def main():
   
 main()
 
-#calismiyor!!
