@@ -7,9 +7,10 @@ def get_rec_evens(liste):
       if item%2==0:
         count+=1
         liste.remove(item)
-        get_rec_evens(liste)
+        return get_rec_evens(liste)
       else:
         continue
   return count
 
-print(get_rec_evens([1,2,3,4,5,6]))
+liste=[1,2,3,4,5,6]
+print(get_rec_evens(liste))
